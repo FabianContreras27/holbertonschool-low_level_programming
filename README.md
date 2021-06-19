@@ -1,1 +1,1 @@
-Empezando en C :D
+Empezando en C
