@@ -1,3 +1,4 @@
+int [WSRD];
 #include <stdio.h>
 main()
 {
